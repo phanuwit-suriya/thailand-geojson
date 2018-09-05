@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "มส",
-                "name": "Mae Hong Son"
+                "name_eng": "Mae Hong Son",
+                "name_thai": "แม่ฮ่องสอน"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2079,7 +2080,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชพ",
-                "name": "Chumphon"
+                "name_eng": "Chumphon",
+                "name_thai": "ชุมพร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3765,7 +3767,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นศ",
-                "name": "Nakhon Si Thammarat"
+                "name_eng": "Nakhon Si Thammarat",
+                "name_thai": "นครราชศรีมา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5375,7 +5378,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ภก",
-                "name": "Phuket"
+                "name_eng": "Phuket",
+                "name_thai": "ภูเก็ต"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5709,7 +5713,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พง",
-                "name": "Phangnga"
+                "name_eng": "Phangnga",
+                "name_thai": "พังงา"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7281,7 +7286,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "รน",
-                "name": "Ranong"
+                "name_eng": "Ranong",
+                "name_thai": "ระนอง"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8933,7 +8939,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สฎ",
-                "name": "Surat Thani"
+                "name_eng": "Surat Thani",
+                "name_thai": "สุราษฎร์ธานี"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11505,7 +11512,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "กบ",
-                "name": "Krabi"
+                "name_eng": "Krabi",
+                "name_thai": "กระบี่"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12837,7 +12845,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พท",
-                "name": "Phatthalung"
+                "name_eng": "Phatthalung",
+                "name_thai": "พัทลุง"
             },
             "geometry": {
                 "type": "Polygon",
@@ -13467,7 +13476,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สต",
-                "name": "Satun"
+                "name_eng": "Satun",
+                "name_thai": "สตูล"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15159,7 +15169,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สข",
-                "name": "Songkhla"
+                "name_eng": "Songkhla",
+                "name_thai": "สงขลา"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16263,7 +16274,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ตง",
-                "name": "Trang"
+                "name_eng": "Trang",
+                "name_thai": "ตรัง"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17455,7 +17467,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ยล",
-                "name": "Yala"
+                "name_eng": "Yala",
+                "name_thai": "ยะลา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -18361,7 +18374,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชร",
-                "name": "Chiang Rai"
+                "name_eng": "Chiang Rai",
+                "name_thai": "เชียงราย"
             },
             "geometry": {
                 "type": "Polygon",
@@ -20259,7 +20273,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชม",
-                "name": "Chiang Mai"
+                "name_eng": "Chiang Mai",
+                "name_thai": "เชียงใหม่"
             },
             "geometry": {
                 "type": "Polygon",
@@ -24153,7 +24168,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ลป",
-                "name": "Lampang"
+                "name_eng": "Lampang",
+                "name_thai": "ลำปาง"
             },
             "geometry": {
                 "type": "Polygon",
@@ -27167,7 +27183,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ลพ",
-                "name": "Lamphun"
+                "name_eng": "Lamphun",
+                "name_thai": "ลำพูน"
             },
             "geometry": {
                 "type": "Polygon",
@@ -28697,7 +28714,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นน",
-                "name": "Nan"
+                "name_eng": "Nan",
+                "name_thai": "น่าน"
             },
             "geometry": {
                 "type": "Polygon",
@@ -30395,7 +30413,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พย",
-                "name": "Phayao"
+                "name_eng": "Phayao",
+                "name_thai": "พะเยา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -31829,7 +31848,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พร",
-                "name": "Phrae"
+                "name_eng": "Phrae",
+                "name_thai": "แพร่"
             },
             "geometry": {
                 "type": "Polygon",
@@ -33439,7 +33459,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พล",
-                "name": "Phitsanulok"
+                "name_eng": "Phitsanulok",
+                "name_thai": "พิษณุโลก"
             },
             "geometry": {
                 "type": "Polygon",
@@ -35253,7 +35274,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สท",
-                "name": "Sukhothai"
+                "name_eng": "Sukhothai",
+                "name_thai": "สุโขทัย"
             },
             "geometry": {
                 "type": "Polygon",
@@ -36879,7 +36901,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อต",
-                "name": "Uttaradit"
+                "name_eng": "Uttaradit",
+                "name_thai": "อุตรดิตถ์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -38405,7 +38428,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "กจ",
-                "name": "Kanchanaburi"
+                "name_eng": "Kanchanaburi",
+                "name_thai": "กาญจนบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -40207,7 +40231,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "กพ",
-                "name": "Kamphaeng Phet"
+                "name_eng": "Kamphaeng Phet",
+                "name_thai": "กำแพงเพชร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -41469,7 +41494,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พจ",
-                "name": "Phichit"
+                "name_eng": "Phichit",
+                "name_thai": "พิจิตร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -42295,7 +42321,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พช",
-                "name": "Phetchabun"
+                "name_eng": "Phetchabun",
+                "name_thai": "เพชรบูรณ์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -44369,7 +44396,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สพ",
-                "name": "Suphan Buri"
+                "name_eng": "Suphan Buri",
+                "name_thai": "สุพรรณบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -45675,7 +45703,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ตก",
-                "name": "Tak"
+                "name_eng": "Tak",
+                "name_thai": "ตาก"
             },
             "geometry": {
                 "type": "Polygon",
@@ -48569,7 +48598,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อน",
-                "name": "Uthai Thani"
+                "name_eng": "Uthai Thani",
+                "name_thai": "อุทัยธานี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -49895,7 +49925,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อท",
-                "name": "Ang Thong"
+                "name_eng": "Ang Thong",
+                "name_thai": "อ่างทอง"
             },
             "geometry": {
                 "type": "Polygon",
@@ -50417,7 +50448,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชน",
-                "name": "Chai Nat"
+                "name_eng": "Chai Nat",
+                "name_thai": "ชัยนาท"
             },
             "geometry": {
                 "type": "Polygon",
@@ -51163,7 +51195,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ลบ",
-                "name": "Lop Buri"
+                "name_eng": "Lop Buri",
+                "name_thai": "ลพบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -52381,7 +52414,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นย",
-                "name": "Nakhon Nayok"
+                "name_eng": "Nakhon Nayok",
+                "name_thai": "นครนายก"
             },
             "geometry": {
                 "type": "Polygon",
@@ -53195,7 +53229,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ปจ",
-                "name": "Prachin Buri"
+                "name_eng": "Prachin Buri",
+                "name_thai": "ปราจีนบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -54569,7 +54604,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นว",
-                "name": "Nakhon Sawan"
+                "name_eng": "Nakhon Sawan",
+                "name_thai": "นครสวรรค์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -56307,7 +56343,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อย",
-                "name": "Phra Nakhon Si Ayutthaya"
+                "name_eng": "Phra Nakhon Si Ayutthaya",
+                "name_thai": "พระนครศรีอยุธยา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -57005,7 +57042,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ปท",
-                "name": "Pathum Thani"
+                "name_eng": "Pathum Thani",
+                "name_thai": "ปทุมธานี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -57231,7 +57269,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สห",
-                "name": "Sing Buri"
+                "name_eng": "Sing Buri",
+                "name_thai": "สิงห์บุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -57789,7 +57828,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สบ",
-                "name": "Saraburi"
+                "name_eng": "Saraburi",
+                "name_thai": "สระบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -58875,7 +58915,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "กท",
-                "name": "Bangkok Metropolis"
+                "name_eng": "Bangkok Metropolis",
+                "name_thai": "กรุงเทพมหานคร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -59381,7 +59422,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นบ",
-                "name": "Nonthaburi"
+                "name_eng": "Nonthaburi",
+                "name_thai": "นนทบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -59659,7 +59701,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นฐ",
-                "name": "Nakhon Pathom"
+                "name_eng": "Nakhon Pathom",
+                "name_thai": "นครปฐม"
             },
             "geometry": {
                 "type": "Polygon",
@@ -60277,7 +60320,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "พบ",
-                "name": "Phetchaburi"
+                "name_eng": "Phetchaburi",
+                "name_thai": "เพชรบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -61219,7 +61263,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ปข",
-                "name": "Prachuap Khiri Khan"
+                "name_eng": "Prachuap Khiri Khan",
+                "name_thai": "ประจวบคีรีขันธ์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -62181,7 +62226,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "รบ",
-                "name": "Ratchaburi"
+                "name_eng": "Ratchaburi",
+                "name_thai": "ราชบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -63299,7 +63345,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สป",
-                "name": "Samut Prakan"
+                "name_eng": "Samut Prakan",
+                "name_thai": "สมุทรปราการ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -63805,7 +63852,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สค",
-                "name": "Samut Sakhon"
+                "name_eng": "Samut Sakhon",
+                "name_thai": "สมุทรสาคร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -64115,7 +64163,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สส",
-                "name": "Samut Songkhram"
+                "name_eng": "Samut Songkhram",
+                "name_thai": "สมุทรสงคราม"
             },
             "geometry": {
                 "type": "Polygon",
@@ -64461,7 +64510,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ศก",
-                "name": "Si Sa Ket"
+                "name_eng": "Si Sa Ket",
+                "name_thai": "ศรีสะเกษ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -66051,7 +66101,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อบ",
-                "name": "Ubon Ratchathani"
+                "name_eng": "Ubon Ratchathani",
+                "name_thai": "อุบลราชธานี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -67673,7 +67724,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อจ",
-                "name": "Amnat Charoen"
+                "name_eng": "Amnat Charoen",
+                "name_thai": "อำนาจเจริญ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -68375,7 +68427,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ยส",
-                "name": "Yasothon"
+                "name_eng": "Yasothon",
+                "name_thai": "ยโสธร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -69669,7 +69722,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชบ",
-                "name": "Chon Buri"
+                "name_eng": "Chon Buri",
+                "name_thai": "ชลบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -70991,7 +71045,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ฉช",
-                "name": "Chachoengsao"
+                "name_eng": "Chachoengsao",
+                "name_thai": "ฉะเชิงเทรา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -72421,7 +72476,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "จบ",
-                "name": "Chanthaburi"
+                "name_eng": "Chanthaburi",
+                "name_thai": "จันทบุรี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -73951,7 +74007,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สก",
-                "name": "Sa Kaeo"
+                "name_eng": "Sa Kaeo",
+                "name_thai": "สระแก้ว"
             },
             "geometry": {
                 "type": "Polygon",
@@ -75289,7 +75346,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "รย",
-                "name": "Rayong"
+                "name_eng": "Rayong",
+                "name_thai": "ระยอง"
             },
             "geometry": {
                 "type": "Polygon",
@@ -76255,7 +76313,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ตร",
-                "name": "Trat"
+                "name_eng": "Trat",
+                "name_thai": "ตราด"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -77235,7 +77294,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "บร",
-                "name": "Buri Ram"
+                "name_eng": "Buri Ram",
+                "name_thai": "บุรีรัมย์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -79341,7 +79401,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ชย",
-                "name": "Chaiyaphum"
+                "name_eng": "Chaiyaphum",
+                "name_thai": "ชัยภูมิ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -81095,7 +81156,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ขก",
-                "name": "Khon Kaen"
+                "name_eng": "Khon Kaen",
+                "name_thai": "ขอนแก่น"
             },
             "geometry": {
                 "type": "Polygon",
@@ -83349,7 +83411,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "กส",
-                "name": "Kalasin"
+                "name_eng": "Kalasin",
+                "name_thai": "กาฬสินธุ์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -85223,7 +85286,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "มค",
-                "name": "Maha Sarakham"
+                "name_eng": "Maha Sarakham",
+                "name_thai": "มหาสารคาม"
             },
             "geometry": {
                 "type": "Polygon",
@@ -86565,7 +86629,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นม",
-                "name": "Nakhon Ratchasima"
+                "name_eng": "Nakhon Ratchasima",
+                "name_thai": "นครราชสีมา"
             },
             "geometry": {
                 "type": "Polygon",
@@ -89447,7 +89512,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "รอ",
-                "name": "Roi Et"
+                "name_eng": "Roi Et",
+                "name_thai": "ร้อยเอ็ด"
             },
             "geometry": {
                 "type": "Polygon",
@@ -90993,7 +91059,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สร",
-                "name": "Surin"
+                "name_eng": "Surin",
+                "name_thai": "สุรินทร์"
             },
             "geometry": {
                 "type": "Polygon",
@@ -92615,7 +92682,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ลย",
-                "name": "Loei"
+                "name_eng": "Loei",
+                "name_thai": "เลย"
             },
             "geometry": {
                 "type": "Polygon",
@@ -94673,7 +94741,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นค",
-                "name": "Nong Khai"
+                "name_eng": "Nong Khai",
+                "name_thai": "หนองคาย"
             },
             "geometry": {
                 "type": "Polygon",
@@ -96303,7 +96372,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "สน",
-                "name": "Sakon Nakhon"
+                "name_eng": "Sakon Nakhon",
+                "name_thai": "สกลนคร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -98989,7 +99059,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "อด",
-                "name": "Udon Thani"
+                "name_eng": "Udon Thani",
+                "name_thai": "อุดรธานี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -102067,7 +102138,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นภ",
-                "name": "Nong Bua Lam Phu"
+                "name_eng": "Nong Bua Lam Phu",
+                "name_thai": "หนองบัวลำภู"
             },
             "geometry": {
                 "type": "Polygon",
@@ -103177,7 +103249,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นพ",
-                "name": "Nakhon Phanom"
+                "name_eng": "Nakhon Phanom",
+                "name_thai": "นครพนม"
             },
             "geometry": {
                 "type": "Polygon",
@@ -104567,7 +104640,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "มห",
-                "name": "Mukdahan"
+                "name_eng": "Mukdahan",
+                "name_thai": "มุกดาหาร"
             },
             "geometry": {
                 "type": "Polygon",
@@ -105465,7 +105539,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "นธ",
-                "name": "Narathiwat"
+                "name_eng": "Narathiwat",
+                "name_thai": "นราธิวาส"
             },
             "geometry": {
                 "type": "Polygon",
@@ -106083,7 +106158,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "ปน",
-                "name": "Pattani"
+                "name_eng": "Pattani",
+                "name_thai": "ปัตตานี"
             },
             "geometry": {
                 "type": "Polygon",
@@ -106721,7 +106797,8 @@
             "type": "Feature",
             "properties": {
                 "abbr": "บก",
-                "name": "Bueng Kan"
+                "name_eng": "Bueng Kan",
+                "name_thai": "บึงกาฬ"
             },
             "geometry": {
                 "type": "Polygon",
